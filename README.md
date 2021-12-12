@@ -1,4 +1,4 @@
-# Sibun Build 2.0.2.2b
+# Sibun - Build 2.0.2.2b
 a Logic puzzle Game written in Livecode Community 9.6.3
 
 Gameplay:
